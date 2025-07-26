@@ -1,18 +1,29 @@
-# Quartz v4
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+# 🐧 LPIC-1 Study Notes
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Welcome to my LPIC-1 study blog, built with [Quartz](https://github.com/jzhao/quartz) and powered by Obsidian.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Here you'll find structured notes for the **LPIC-1 101 and 102 exams**, organized by topic and objective:
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+---
 
-## Sponsors
+## 📘 Topics
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+
+### [101 System Architecture](/system-architecture/)
+### [102 Linux Installation](/linux-installation/)
+### [103 GNU and Unix Commands](/unix-commands/)
+### [104 Devices and Filesystems](/devices-and-filesystems/)
+
+
+
+---
+
+## 📌 About This Site
+
+This site was created to:
+- Reinforce learning by writing and structuring notes.
+- Share LPIC-1 knowledge openly.
+- Serve as a personal knowledge base and digital garden.
+
+Feel free to explore, study, or fork this structure for your own notes!
