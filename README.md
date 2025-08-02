@@ -3,7 +3,8 @@
 Welcome to my **LPIC-1 Study Notes** repository!  
 This is a collection of structured notes aimed at helping learners prepare for the **LPIC-1 (Linux Professional Institute Certification) Exams 101 and 102**.
 
-These notes were originally written using **Quartz** and organized with **Obsidian**. They serve as both a personal learning tool and a public resource.
+The notes are organized by topic and objective, focusing on real command-line usage and Linux fundamentals.  
+They're part of a personal study effort and are shared here for anyone else studying for the same exams.
 
 ---
 
