@@ -1,3 +1,10 @@
 {
-  "cleanUrls": true
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://quartz.hcoco1.com",
+      "permanent": true
+    }
+  ]
 }
+
