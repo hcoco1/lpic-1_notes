@@ -1,9 +1,7 @@
 
-# 🐧 LPIC-1 Study Notes
+# 🐧 LPIC-1 Exams 101-500 and 102-500 Study Notes
 
-Welcome to my LPIC-1 study blog, built with [Quartz](https://github.com/jzhao/quartz) and powered by Obsidian.
-
-Here you'll find structured notes for the **LPIC-1 101 and 102 exams**, organized by topic and objective:
+Welcome to my LPIC-1 study blog, here you'll find structured notes for the **LPIC-1 101 and 102 exams**, organized by topic and objective:
 
 ---
 
@@ -14,8 +12,6 @@ Here you'll find structured notes for the **LPIC-1 101 and 102 exams**, organize
 ### [102 Linux Installation](/linux-installation/)
 ### [103 GNU and Unix Commands](/unix-commands/)
 ### [104 Devices and Filesystems](/devices-and-filesystems/)
-
-
 
 ---
 
