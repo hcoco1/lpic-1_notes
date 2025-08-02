@@ -1,25 +1,58 @@
+# 🐧 LPIC-1 Study Notes
 
-# 🐧 LPIC-1 Exams 101-500 and 102-500 Study Notes
+Welcome to my **LPIC-1 Study Notes** repository!  
+This is a collection of structured notes aimed at helping learners prepare for the **LPIC-1 (Linux Professional Institute Certification) Exams 101 and 102**.
 
-Welcome to my LPIC-1 study blog, here you'll find structured notes for the **LPIC-1 101 and 102 exams**, organized by topic and objective:
-
----
-
-## 📘 Topics
-
-
-### [101 System Architecture](/system-architecture/)
-### [102 Linux Installation](/linux-installation/)
-### [103 GNU and Unix Commands](/unix-commands/)
-### [104 Devices and Filesystems](/devices-and-filesystems/)
+These notes were originally written using **Quartz** and organized with **Obsidian**. They serve as both a personal learning tool and a public resource.
 
 ---
 
-## 📌 About This Site
+## 📘 Topics Covered
 
-This site was created to:
-- Reinforce learning by writing and structuring notes.
-- Share LPIC-1 knowledge openly.
-- Serve as a personal knowledge base and digital garden.
+### Command Line Interface
+- Linux Path
+- Moving Around Directories
+- Reaching The Command Line
+- Virtual Directory System
+- Command Line History
+- Command Structure and Types
+- Displaying a Text File
+- Displaying a Text File a Page at a Time
+- Exploring Your System
+- Getting Help in the CLI
+- Manipulating Text File Output I
+- Manipulating Text File Output II
+- Obtaining a Text File Hash
+- Obtaining Text File Information
+- Redirecting Input
+- Redirecting Output
+- Simple Text Searches
+- Using Pipes for Chaining Redirection
 
-Feel free to explore, study, or fork this structure for your own notes!
+### LPIC-1 Objectives
+- 101 System Architecture
+- 102 Linux Installation
+- 103 GNU and Unix Commands
+- 104 Devices and Filesystems
+
+---
+
+## 📌 About This Project
+
+This site and repo were created to:
+
+- Reinforce learning by documenting and organizing LPIC-1 content.
+- Share Linux knowledge with others preparing for certification.
+- Serve as a personal digital garden and knowledge base.
+
+---
+
+## 🤝 How You Can Use This
+
+Feel free to:
+
+- Fork this repo and adapt the notes to your own study workflow.
+- Clone and view them in Obsidian or any markdown editor.
+- Contribute improvements through pull requests.
+
+Happy studying and good luck on your LPIC-1 journey! 🐧
